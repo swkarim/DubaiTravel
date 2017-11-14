@@ -1,0 +1,69 @@
+<resources>
+    <string name="app_name">DubaiTravel</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!--Description of Burj Khalifa-->
+    <string name="desc_burj_khalifa">The Burj Khalifa,
+        is a skyscraper in Dubai, U.A.E.
+        With a total height of 829.8 m,
+        the Burj Khalifa is currently the tallest structure in the world.</string>
+    <string name="loc_burj_khalifa">Location : Downtown Dubai</string>
+
+    <!--Description of Burj Al Arab-->
+    <string name="desc_burj_al_arab">The Burj al-Arab is a 7 star luxury hotel located in Dubai,
+        U.A.E. It is the third tallest hotel in the world.</string>
+
+    <!--Description of Atlantis-->
+    <string name="desc_atlantis">Atlantis, The Palm is a UAE luxury hotel resort located at the apex
+        of the Palm Jumeirah in the United Arab Emirates.</string>
+
+    <!--Description of Wild Wadi-->
+    <string name="desc_wild_wadi">The Wild Wadi Water Park is an outdoor water park in Dubai, U.A.E.
+        Situated in the area of Jumeirah, next to the Burj Al Arab.</string>
+
+    <string name="desc_restaurant_one">Coya: Coya not only serves the best food in the city, but some of the best dishes
+        we\'ve eaten anywhere. Ever. It\'s popular and has been since it opened.  </string>
+
+    <string name="desc_restaurant_two">Play: A restaurant that opened with an air of exclusivity, this new
+        "Mediterrasian" eatery takes the two cuisines and puts together dishes to stunning effect.</string>
+
+    <string name="desc_restaurant_three">Pai Thai: Yes, it has been around a while, and yes, it\'s popular with
+        tourists. But it\'s also absolutely fantastic.</string>
+
+    <string name="desc_restaurant_four">Nusr-Et: Serving Turkish classics and some of the best cuts of meats
+        in town, Nusr-Et has done wonders since it opened, managing to combine fine dining with a
+        no-nonsense approach.</string>
+
+    <string name="desc_mall_one">Mall of the Emirates: MOE is the ultimate destination for leisure,
+        entertainment, and shopping. It is also the world’s first shopping resort with dual five star
+        hotels.</string>
+
+    <string name="desc_mall_two">Ibn Battuta: Ibn Battuta was a 14th Century Arab scholar who travelled 120,000 km
+        over 30 years. This mall, inspired by him, gives us an insight into the places he has visited.
+        Who wouldn\’t love a bit of medieval scenery while shopping?</string>
+
+    <string name="desc_mall_three">Deira City Centre: It may not be the shiniest and it is definitely not the biggest,
+        but Deira City Centre has always been one of the favourite shopping destinations for the
+        residents of old Dubai.</string>
+
+    <string name="desc_mall_four">Dubai Mall: Now it\'s time for the most elaborate mall of them all, although
+        the one with the least elaborate name: The Dubai Mall. It\’s the largest in the world and there
+        is barely a brand or outlet that isn\’t set up here.</string>
+
+    <string name="desc_off_one">Ras Al Khor Wildlife Sanctuary: This large salt water lagoon is only
+        10 minutes drive from World Trade Centre and you can see large numbers of migratory wild birds
+        including flamingoes and eagles from the hides.</string>
+
+    <string name="desc_off_two">MAKE Business Hub: An urban cafe that promotes entrepreneurs and aims
+        to foster creativity with free-to-use facilities, workshops and seminars. A good place to go
+        if you are in Dubai for business or want to network.</string>
+
+    <string name="desc_off_three">Bastakiya: The Emirati breakfasts and lunches at the Cultural Centre
+        in Bastakiya go down well with my guests. The food is cooked and served by locals who will chat
+        to you about life in UAE.</string>
+
+    <string name="desc_off_four">Pavilion Downtown: They have art exhibitions, a library, cafe and
+        cinema showing local and international films.</string>
+</resources>
